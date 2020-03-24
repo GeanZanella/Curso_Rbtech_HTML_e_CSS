@@ -1,0 +1,14 @@
+h1{
+    color: orange;
+    letter-spacing: -1px;
+    text-transform: capitalize;
+    width: 650px;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+p{
+    text-indent: 50px;
+    width: 650px;
+    font-size: 20px;
+    font-family: monospace;
+}
